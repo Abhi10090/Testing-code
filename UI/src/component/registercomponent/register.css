@@ -1,0 +1,23 @@
+.mainpart{
+width: 100%;
+background-color: rgba(0, 0, 0, 0.075);;
+height: auto;
+display:flex;
+}
+.firstpart{
+    width: 50%;
+    height: auto;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+.secondpart{
+    width: 50%;
+    height: auto;
+}
+.imageset{
+    
+    width: 79%;
+    margin-left: 31px;
+    margin-top: 106px;
+    border: 1px solid black;
+}

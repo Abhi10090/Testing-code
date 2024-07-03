@@ -1,0 +1,22 @@
+This instruction is very important for run web-application properly 
+Step 1 : Ensure mongodb is install in your pc or system properly.
+
+Step 2 : setup API 
+
+=> In API command prompt
+
+### `npm install`
+
+To installing all the module which is important for our project or web-application and API setup 
+
+=> For RUN API 
+
+### `npm run dev app.js` or `nodemon app.js`
+
+For run API to done crud opration through API 
+
+Note : After setup and run API go UI folder and read README.md file to run UI 
+
+Important Note : Check nodemodule is install properly or not.
+
+
